@@ -7,7 +7,7 @@ import { adminRouter } from "./modules/admin/admin.routes.js";
 import { aiRouter } from "./modules/ai/ai.routes.js";
 import { authRouter } from "./modules/auth/auth.routes.js";
 import { leaderboardRouter } from "./modules/leaderboard/leaderboard.routes.js";
-// import { messagesRouter } from "./modules/messages/messages.routes.js";
+import { messagesRouter } from "./modules/messages/messages.routes.js";
 import { notificationsRouter } from "./modules/notifications/notifications.routes.js";
 import { requestsRouter } from "./modules/requests/requests.routes.js";
 import { usersRouter } from "./modules/users/users.routes.js";
