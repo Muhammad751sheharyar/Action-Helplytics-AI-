@@ -10,7 +10,7 @@ import { leaderboardRouter } from "./modules/leaderboard/leaderboard.routes.js";
 import { messagesRouter } from "./modules/messages/messages.routes.js";
 import { notificationsRouter } from "./modules/notifications/notifications.routes.js";
 import { requestsRouter } from "./modules/requests/requests.routes.js";
-import { usersRouter } from "./modules/users/users.routes.js";
+// import { usersRouter } from "./modules/users/users.routes.js";
 
 export const app = express();
 
